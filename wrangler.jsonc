@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "quien-sabe-de",
+  "compatibility_date": "2026-06-09",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "mockups"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
